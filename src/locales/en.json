@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Follow the first-hour route from spawn to your first hatch, then equip the dinosaur and start exploring."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Best Egg Routes",
+          "description": "Sweep the starting area and outer paths, then use a faster mount to reach eggs farther from the center."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Speed Mutations",
+          "description": "Test each hatch on a known route and spend mutations on a fast base that shortens every future trip."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for collecting resources in Ride a Dino."
+          "title": "Dino Selection",
+          "description": "Compare base speed, rarity, and mutation headroom to choose the dinosaur that fits your next goal."
         }
       ]
     },
@@ -66,86 +66,82 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Route",
+        "Egg Locations",
+        "Dino Tier List",
+        "Mutation Guide"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Ride a Dino Beginner Guide",
+          "description": "Plan your first hour from spawn to hatch, mount, and mutation.",
+          "href": "/guide/ride-a-dino-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Map",
+          "title": "Dino Egg Locations",
+          "description": "Follow zone routes for starting eggs, outer paths, speed gates, and far-edge spawns.",
+          "href": "/updates/ride-a-dino-dinosaur-locations"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Tier List",
+          "title": "Best Dinosaurs",
+          "description": "Rank your hatches by base speed, rarity, and mutation headroom.",
+          "href": "/characters/ride-a-dino-best-dinosaurs-tier-list"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Upgrade",
+          "title": "Mutations and Upgrades",
+          "description": "Choose a fast candidate and test each mutation on a route you know.",
+          "href": "/mechanics/ride-a-dino-dinosaur-upgrades"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Tips",
+          "title": "Tips and Tricks",
+          "description": "Build repeatable egg routes, test mounts, and avoid wasted travel.",
+          "href": "/guide/ride-a-dino-tips-and-tricks"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Codes",
+          "title": "Ride a Dino Codes",
+          "description": "Check the current code status and the steps to redeem a code when one appears.",
+          "href": "/codes/ride-a-dino-codes"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Rare",
+          "title": "Rarest Dinosaurs",
+          "description": "Plan a hunt for rare hatches and the areas that require a faster mount.",
+          "href": "/progression/ride-a-dino-rarest-dinosaur"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "Update",
+          "title": "New Dinosaurs",
+          "description": "Track new hatches, egg changes, and update priorities as the map expands.",
+          "href": "/updates/ride-a-dino-new-dinosaurs"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Gameplay",
+          "title": "How to Play",
+          "description": "Learn the explore, hatch, ride, mutate, and collect loop from the first session.",
+          "href": "/guide/ride-a-dino-how-to-play"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Ride a Dino?",
       "paragraphs": [
-        "Ride a Dino is a Roblox dinosaur riding and collection game focused on finding hidden Dino Eggs, hatching faster dinosaurs, discovering rare creatures, and using mutations to improve speed.",
-        "Use our wiki to plan egg routes, compare dinosaurs, understand mutation upgrades, and keep your collection progressing efficiently."
+        "Ride a Dino is a Roblox dinosaur collection game built around a compact loop: explore the map, find Dino Eggs, hatch a dinosaur, ride it to reach new areas, and mutate a fast mount to push its speed higher.",
+        "Movement drives progression. A faster hatch opens longer routes and harder-to-find eggs, while mutations add speed to the dinosaur you choose to keep. Our guides cover the first-hour route, hatch testing, mutation priorities, egg locations, and codes for each session."
       ],
       "stats": [
-        {
-          "label": "Developer",
-          "value": "Roblox Creator"
-        },
         {
           "label": "Platform",
           "value": "Roblox"
         },
         {
           "label": "Genre",
-          "value": "Dinosaur Riding Simulator"
+          "value": "Dinosaur Collection"
         },
         {
           "label": "Visits",
@@ -153,7 +149,11 @@
         },
         {
           "label": "Core Loop",
-          "value": "Hatch & Ride"
+          "value": "Explore, Hatch, Ride"
+        },
+        {
+          "label": "Server Size",
+          "value": "6 Riders"
         },
         {
           "label": "Progression",
@@ -168,163 +168,245 @@
     },
     "explore": {
       "title": "Explore Ride a Dino Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Plan your first hatch, find egg routes, rank dinosaurs, and improve speed with focused Ride a Dino guides.",
       "modules": [
         {
           "order": 1,
-          "name": "Ride a Dino Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes",
-          "displayType": "code-box",
+          "name": "Ride a Dino Beginner Guide",
+          "description": "Learn the core explore, hatch, ride, mutate, and collect loop, then follow a first-hour route from spawn to a usable mount.",
+          "href": "/guide/ride-a-dino-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Sweep the spawn area in widening circles to find your first Dino Egg."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Hatch the egg and equip the dinosaur as soon as it appears."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Ride the new mount through outer routes to reach eggs beyond walking range."
+            },
+            {
+              "label": "4",
+              "detail": "Mutate a fast base to raise its speed and shorten every future route."
+            },
+            {
+              "label": "5",
+              "detail": "Collect each new hatch, test it on a known route, and keep the fastest mount active."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide",
-          "displayType": "feature-cards",
+          "name": "Ride a Dino Codes",
+          "description": "Check the current Ride a Dino code status, learn how redemption works, and know where new codes appear after an update.",
+          "href": "/codes/ride-a-dino-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Status",
+              "detail": "There are no active Ride a Dino codes and no expired codes on record."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Menu",
+              "detail": "The game has no in-game codes menu or redemption box at this time."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Redeem",
+              "detail": "When a codes menu appears, open it, paste the code exactly, and confirm the reward."
+            },
+            {
+              "label": "Watch",
+              "detail": "Check the Roblox game page, official Discord, and developer social accounts after each update."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/tier-list",
+          "name": "Ride a Dino Dinosaur Tier List",
+          "description": "Rank hatches by base speed, rarity, and mutation headroom, then use the S to C buckets to decide which dinosaur stays in your active roster.",
+          "href": "/characters/ride-a-dino-best-dinosaurs-tier-list",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Quick at base, rare enough to protect, and still has room for mutation; promote it to your main mount."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Strong on two of the three axes; use it as the benchmark while you keep hunting for a better hatch."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Average speed and rarity; keep it as a backup and avoid heavy mutation spending."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Slow and ordinary; retire it, free the slot, and move on to the next egg."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/guide",
-          "displayType": "feature-cards",
+          "name": "Ride a Dino Dinosaur Guide",
+          "description": "Compare the dinosaurs you hatch by movement, rarity, and mutation value, then build a roster that covers travel and collection.",
+          "href": "/guide/ride-a-dino-best-dinosaurs",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Base Speed",
+              "detail": "Hatches vary in base speed; time the same route on two mounts before you switch."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Rarity",
+              "detail": "Rarity is a collection signal, not a guarantee of faster movement."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Mutation",
+              "detail": "Mutation adds speed to the hatch you choose, so commit after testing the base."
+            },
+            {
+              "label": "Route Test",
+              "detail": "Run a known route on your current mount and the new hatch to spot a real upgrade."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide",
-          "displayType": "feature-cards",
+          "name": "Ride a Dino Progression Guide",
+          "description": "Turn each session into a repeatable route: hatch a useful mount, open more of the map, and reinvest speed gains into rarer eggs.",
+          "href": "/progression",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Scout a small radius from spawn and identify the first egg before traveling far."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Hatch and equip your first mount within the opening minutes of a session."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Mutate a fast hatch to extend the distance you can cover on one route."
+            },
+            {
+              "label": "4",
+              "detail": "Build a roster of two or three dinos by chaining egg pickups from one landmark to the next."
+            },
+            {
+              "label": "5",
+              "detail": "Recheck central spawns with your fastest mount and keep the route that produces the most eggs."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/maps",
-          "displayType": "feature-cards",
+          "name": "Ride a Dino Eggs and Hatching Guide",
+          "description": "Learn where eggs appear, how to hatch them, and which map areas open up when your mount gets faster.",
+          "href": "/updates/ride-a-dino-dinosaur-locations",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Starting",
+              "detail": "Walk out from spawn and sweep the starting area for your first eggs."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Outer",
+              "detail": "Follow paths away from the center and check edges and route splits."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Speed Gate",
+              "detail": "Long detours and split paths open rare hatch candidates as mount speed rises."
+            },
+            {
+              "label": "Far Edge",
+              "detail": "Cover distant edges deliberately with your fastest mount for hard-to-find eggs."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Ride a Dino Mutation and Upgrades Guide",
+          "description": "Choose a promising hatch, test it on real routes, and direct mutations at the mount that actually shortens your travel time.",
+          "href": "/mechanics/ride-a-dino-dinosaur-upgrades",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Mutate",
+              "detail": "Mutation improves a dinosaur's performance, especially the speed you feel on long egg routes."
+            },
+            {
+              "label": "Commit",
+              "detail": "Test a hatch before spending mutations so resources stay on a mount you intend to keep."
+            },
+            {
+              "label": "Recheck",
+              "detail": "Retest the same route after each upgrade and move on when the mount stops improving."
+            },
+            {
+              "label": "Collect",
+              "detail": "Keep rare or unusual hatches separate from the fast travel mount you mutate."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Ride a Dino Tips and Tricks",
+          "description": "Use repeatable egg routes, test mounts before switching, and avoid the travel habits that slow a collection session.",
+          "href": "/guide/ride-a-dino-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Routes",
+              "detail": "Pick three or four landmarks and repeat them in order instead of wandering across the map."
+            },
+            {
+              "label": "Testing",
+              "detail": "Try two or three dinosaurs on a familiar route before committing to a main mount."
+            },
+            {
+              "label": "Roster",
+              "detail": "Review your roster after each session and keep the dinos that serve a travel or collection role."
+            },
+            {
+              "label": "Speed",
+              "detail": "Spend upgrades on travel speed and egg access before cosmetic choices."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Ride a Dino.",
+      "title": "Ride a Dino FAQ",
+      "description": "Quick answers about Ride a Dino eggs, controls, mutations, codes, and progression.",
       "items": [
         {
           "question": "What is Ride a Dino?",
-          "answer": "Ride a Dino is a free-to-play Roblox dinosaur riding and collection game. Players find hidden Dino Eggs, hatch faster dinosaurs, discover rare creatures, and use mutations to improve speed."
+          "answer": "Ride a Dino is a Roblox dinosaur collection game. Players explore the map, find Dino Eggs, hatch dinosaurs, ride faster mounts, and use mutations to improve speed."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I start Ride a Dino?",
+          "answer": "Sweep the area around spawn for your first egg, hatch it, and equip the dinosaur. Ride outward from that point to find eggs that were too far away on foot."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Are there working Ride a Dino codes?",
+          "answer": "There are no active Ride a Dino codes and no expired codes on record. The game has no redemption menu at this time, so check the Roblox game page and official channels after an update."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do Ride a Dino mutations work?",
+          "answer": "Mutations improve a dinosaur's performance, especially speed. Test a hatch on a known route first, then direct mutations at the mount that actually shortens your travel time."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do I find rare eggs in Ride a Dino?",
+          "answer": "Cover the starting area, outer paths, speed-gated zones, and far edges. A faster mount opens longer routes and gives you access to eggs you could not reach before."
+        },
+        {
+          "question": "Which dinosaur should I keep in Ride a Dino?",
+          "answer": "Keep a hatch that is quick at base, useful on your route, and worth mutating. Compare speed, rarity, and mutation headroom, then promote the mount that improves your next session."
         }
       ]
     },
