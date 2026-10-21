@@ -26,10 +26,13 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params;
   const image = `${siteUrl}/images/hero.webp`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
+  const title = "Ride a Dino Wiki";
+  const description = "Explore Ride a Dino on Roblox with beginner guides, Dino Egg locations, hatching tips, dinosaur rarity, speed mutations, and collection strategies.";
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "Ride a Dino Wiki - Codes, Eggs & Mutations", template: "%s" },
-    description: "Explore Ride a Dino on Roblox with beginner guides, Dino Egg locations, hatching tips, dinosaur rarity, speed mutations, and collection strategies.",
+    applicationName: siteConfig.name,
+    title: { default: title, template: "%s" },
+    description,
     manifest: "/manifest.json",
     icons: {
       icon: [
@@ -39,8 +42,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       ],
       apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
     },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: { type: "website", locale, url: `${siteUrl}/${locale}`, siteName: siteConfig.name, title, description, images: [{ url: image, width: 1280, height: 720, alt: "Ride a Dino gameplay" }] },
+    twitter: { card: "summary_large_image", title, description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -54,7 +57,7 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     "@context": "https://schema.org",
     "@type": "Organization",
     name: siteConfig.name,
-    url: siteUrl,
+    url: siteConfig.url,
     logo: `${siteUrl}/android-chrome-512x512.png`,
     image: `${siteUrl}/images/hero.webp`,
   };
