@@ -1,1 +1,499 @@
-{}
+{
+  "site": {
+    "name": "Ride a Dino Wiki",
+    "shortName": "Ride a Dino",
+    "tagline": "Guias de ovos de dinossauro, mutações, chocagem e progressão",
+    "description": "Explore Ride a Dino no Roblox com guias para iniciantes, localizações de ovos de dinossauro, dicas de chocagem, raridade de dinossauros, mutações de velocidade e estratégias de coleção.",
+    "legalNotice": "Wiki de fãs não oficial. Sem afiliação com a Roblox ou com os desenvolvedores do jogo."
+  },
+  "nav": {
+    "home": "Início",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema",
+    "guide": "Guia",
+    "progression": "Progressão",
+    "mechanics": "Mecânicas",
+    "items": "Itens",
+    "codes": "Códigos",
+    "characters": "Personagens",
+    "updates": "Atualizações"
+  },
+  "home": {
+    "meta": {
+      "title": "Ride a Dino Wiki - Códigos, ovos e mutações",
+      "description": "Explore Ride a Dino no Roblox com guias para iniciantes, localizações de ovos de dinossauro, dicas de chocagem, raridade de dinossauros, mutações de velocidade e estratégias de coleção."
+    },
+    "hero": {
+      "eyebrow": "Simulador de montaria de dinossauro no Roblox",
+      "title": "Ride a Dino Wiki",
+      "description": "Descubra ovos de dinossauro escondidos, choque dinossauros mais rápidos, encontre criaturas raras e use mutações para melhorar a velocidade. Encontre guias para iniciantes, dicas de gameplay e estratégias de coleção para Ride a Dino no Roblox.",
+      "stats": [
+        "Mais de 2,1 mi de visitas",
+        "Coleção de ovos de dinossauro",
+        "Códigos em breve",
+        "Atualizado recentemente"
+      ],
+      "primaryCta": "Jogar no Roblox",
+      "secondaryCta": "Guia para iniciantes",
+      "tertiaryCta": "Códigos ativos",
+      "videoLabel": "Vídeo de gameplay"
+    },
+    "updates": {
+      "title": "Últimas atualizações",
+      "browse": "Ver todos os guias",
+      "viewAll": "Ver tudo"
+    },
+    "start": {
+      "eyebrow": "Comece aqui",
+      "title": "Sua jornada em Ride a Dino",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para iniciantes",
+          "description": "Siga a rota da primeira hora, do ponto de spawn até a primeira chocagem, equipe o dinossauro e comece a explorar."
+        },
+        {
+          "number": "2",
+          "title": "Melhores rotas de ovos",
+          "description": "Percorra a área inicial e os caminhos externos, depois use uma montaria mais rápida para alcançar ovos mais distantes do centro."
+        },
+        {
+          "number": "3",
+          "title": "Mutações de velocidade",
+          "description": "Teste cada chocagem em uma rota conhecida e invista as mutações em uma base rápida que encurte todos os seus próximos trajetos."
+        },
+        {
+          "number": "4",
+          "title": "Escolha do dinossauro",
+          "description": "Compare velocidade base, raridade e margem de mutação para escolher o dinossauro que combina com o seu próximo objetivo."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Em alta",
+      "quickLinks": [
+        "Rota para iniciantes",
+        "Localizações dos ovos",
+        "Tier list de dinossauros",
+        "Guia de mutações"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para iniciantes de Ride a Dino",
+          "description": "Planeje sua primeira hora, do spawn à chocagem, montaria e mutação.",
+          "href": "/guide/ride-a-dino-beginner-guide"
+        },
+        {
+          "badge": "Mapa",
+          "title": "Localizações dos ovos de dinossauro",
+          "description": "Siga rotas por zona para ovos iniciais, caminhos externos, portões de velocidade e spawns distantes.",
+          "href": "/updates/ride-a-dino-dinosaur-locations"
+        },
+        {
+          "badge": "Tier list",
+          "title": "Melhores dinossauros",
+          "description": "Ranqueie suas chocagens por velocidade base, raridade e margem de mutação.",
+          "href": "/characters/ride-a-dino-best-dinosaurs-tier-list"
+        },
+        {
+          "badge": "Melhoria",
+          "title": "Mutações e melhorias",
+          "description": "Escolha um candidato rápido e teste cada mutação em uma rota que você conhece.",
+          "href": "/mechanics/ride-a-dino-dinosaur-upgrades"
+        },
+        {
+          "badge": "Dicas",
+          "title": "Dicas e truques",
+          "description": "Crie rotas de ovos repetíveis, teste montarias e evite viagens desperdiçadas.",
+          "href": "/guide/ride-a-dino-tips-and-tricks"
+        },
+        {
+          "badge": "Códigos",
+          "title": "Códigos de Ride a Dino",
+          "description": "Confira o status atual dos códigos e os passos para resgatar um quando ele aparecer.",
+          "href": "/codes/ride-a-dino-codes"
+        },
+        {
+          "badge": "Raro",
+          "title": "Dinossauros mais raros",
+          "description": "Planeje a busca por chocagens raras e pelas áreas que exigem uma montaria mais rápida.",
+          "href": "/progression/ride-a-dino-rarest-dinosaur"
+        },
+        {
+          "badge": "Atualização",
+          "title": "Novos dinossauros",
+          "description": "Acompanhe novas chocagens, mudanças de ovos e prioridades de atualização conforme o mapa cresce.",
+          "href": "/updates/ride-a-dino-new-dinosaurs"
+        },
+        {
+          "badge": "Gameplay",
+          "title": "Como jogar",
+          "description": "Aprenda o ciclo de explorar, chocar, montar, mutar e colecionar desde a primeira sessão.",
+          "href": "/guide/ride-a-dino-how-to-play"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Ride a Dino?",
+      "paragraphs": [
+        "Ride a Dino é um jogo de coleção de dinossauros no Roblox construído em torno de um ciclo compacto: explore o mapa, encontre ovos de dinossauro, choque um dinossauro, monte nele para alcançar novas áreas e mute uma montaria rápida para aumentar ainda mais a velocidade.",
+        "O movimento impulsiona a progressão. Uma chocagem mais rápida abre rotas mais longas e ovos mais difíceis de encontrar, enquanto as mutações adicionam velocidade ao dinossauro que você decide manter. Nossos guias cobrem a rota da primeira hora, testes de chocagem, prioridades de mutação, localizações dos ovos e códigos de cada sessão."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Coleção de dinossauros"
+        },
+        {
+          "label": "Visitas",
+          "value": "2,1 mi+"
+        },
+        {
+          "label": "Ciclo principal",
+          "value": "Explorar, chocar, montar"
+        },
+        {
+          "label": "Tamanho do servidor",
+          "value": "6 cavaleiros"
+        },
+        {
+          "label": "Progressão",
+          "value": "Mutações de velocidade"
+        },
+        {
+          "label": "Status da atualização",
+          "value": "Atualizado recentemente"
+        }
+      ],
+      "cta": "Explorar todos os guias"
+    },
+    "explore": {
+      "title": "Explore a Ride a Dino Wiki",
+      "description": "Planeje sua primeira chocagem, encontre rotas de ovos, ranqueie dinossauros e melhore a velocidade com guias específicos de Ride a Dino.",
+      "readFullGuide": "Ler guia completo",
+      "tierLabel": "Nível",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guia para iniciantes de Ride a Dino",
+          "description": "Aprenda o ciclo principal de explorar, chocar, montar, mutar e colecionar, depois siga uma rota de primeira hora do spawn até uma montaria utilizável.",
+          "href": "/guide/ride-a-dino-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Percorra a área de spawn em círculos cada vez maiores para encontrar seu primeiro ovo de dinossauro."
+            },
+            {
+              "label": "2",
+              "detail": "Choque o ovo e equipe o dinossauro assim que ele aparecer."
+            },
+            {
+              "label": "3",
+              "detail": "Monte na nova criatura pelas rotas externas para alcançar ovos fora do alcance a pé."
+            },
+            {
+              "label": "4",
+              "detail": "Mute uma base rápida para aumentar a velocidade e encurtar todos os seus próximos trajetos."
+            },
+            {
+              "label": "5",
+              "detail": "Colecione cada nova chocagem, teste-a em uma rota conhecida e mantenha a montaria mais rápida ativa."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Códigos de Ride a Dino",
+          "description": "Confira o status atual dos códigos de Ride a Dino, aprenda como funciona o resgate e saiba onde novos códigos aparecem após uma atualização.",
+          "href": "/codes/ride-a-dino-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Status",
+              "detail": "Não há códigos ativos de Ride a Dino nem códigos expirados registrados."
+            },
+            {
+              "label": "Menu",
+              "detail": "O jogo não tem menu de códigos nem caixa de resgate dentro do jogo no momento."
+            },
+            {
+              "label": "Resgatar",
+              "detail": "Quando um menu de códigos aparecer, abra-o, cole o código exatamente e confirme a recompensa."
+            },
+            {
+              "label": "Acompanhar",
+              "detail": "Confira a página do jogo no Roblox, o Discord oficial e as redes sociais do desenvolvedor após cada atualização."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Tier list de dinossauros de Ride a Dino",
+          "description": "Ranqueie as chocagens por velocidade base, raridade e margem de mutação, depois use os grupos de S a C para decidir qual dinossauro fica no seu time ativo.",
+          "href": "/characters/ride-a-dino-best-dinosaurs-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Rápido de base, raro o bastante para proteger e ainda com margem para mutação; promova-o a montaria principal."
+            },
+            {
+              "label": "A",
+              "detail": "Forte em dois dos três eixos; use-o como referência enquanto continua procurando uma chocagem melhor."
+            },
+            {
+              "label": "B",
+              "detail": "Velocidade e raridade médias; mantenha-o como reserva e evite gastar muito em mutações."
+            },
+            {
+              "label": "C",
+              "detail": "Lento e comum; aposente-o, libere o espaço e siga para o próximo ovo."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guia de dinossauros de Ride a Dino",
+          "description": "Compare os dinossauros que você choca por movimento, raridade e valor de mutação, depois monte um time que cubra viagens e coleção.",
+          "href": "/guide/ride-a-dino-best-dinosaurs",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Velocidade base",
+              "detail": "As chocagens variam em velocidade base; cronometre a mesma rota com duas montarias antes de trocar."
+            },
+            {
+              "label": "Raridade",
+              "detail": "Raridade é um indicativo de coleção, não uma garantia de movimento mais rápido."
+            },
+            {
+              "label": "Mutação",
+              "detail": "A mutação adiciona velocidade à chocagem escolhida, então decida depois de testar a base."
+            },
+            {
+              "label": "Teste de rota",
+              "detail": "Percorra uma rota conhecida com sua montaria atual e com a nova chocagem para identificar uma melhoria real."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guia de progressão de Ride a Dino",
+          "description": "Transforme cada sessão em uma rota repetível: choque uma montaria útil, abra mais partes do mapa e reinvista os ganhos de velocidade em ovos mais raros.",
+          "href": "/progression",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Explore um raio pequeno ao redor do spawn e identifique o primeiro ovo antes de viajar para longe."
+            },
+            {
+              "label": "2",
+              "detail": "Choque e equipe sua primeira montaria nos primeiros minutos de uma sessão."
+            },
+            {
+              "label": "3",
+              "detail": "Mute uma chocagem rápida para ampliar a distância que você cobre em uma única rota."
+            },
+            {
+              "label": "4",
+              "detail": "Monte um time de dois ou três dinossauros encadeando coletas de ovos de um ponto de referência ao próximo."
+            },
+            {
+              "label": "5",
+              "detail": "Revise os spawns centrais com sua montaria mais rápida e mantenha a rota que produz mais ovos."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guia de ovos e chocagem de Ride a Dino",
+          "description": "Saiba onde os ovos aparecem, como chocá-los e quais áreas do mapa se abrem quando sua montaria fica mais rápida.",
+          "href": "/updates/ride-a-dino-dinosaur-locations",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Início",
+              "detail": "Saia do spawn e percorra a área inicial para encontrar seus primeiros ovos."
+            },
+            {
+              "label": "Exterior",
+              "detail": "Siga os caminhos que se afastam do centro e verifique as bordas e bifurcações."
+            },
+            {
+              "label": "Portão de velocidade",
+              "detail": "Desvios longos e caminhos divididos abrem candidatos raros conforme a velocidade da montaria aumenta."
+            },
+            {
+              "label": "Borda distante",
+              "detail": "Percorra de propósito as bordas distantes com sua montaria mais rápida para encontrar ovos difíceis de localizar."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guia de mutações e melhorias de Ride a Dino",
+          "description": "Escolha uma chocagem promissora, teste-a em rotas reais e direcione as mutações para a montaria que realmente encurta seu tempo de viagem.",
+          "href": "/mechanics/ride-a-dino-dinosaur-upgrades",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Mutar",
+              "detail": "A mutação melhora o desempenho de um dinossauro, especialmente a velocidade sentida em rotas longas de ovos."
+            },
+            {
+              "label": "Confirmar",
+              "detail": "Teste uma chocagem antes de gastar mutações para manter os recursos em uma montaria que você pretende conservar."
+            },
+            {
+              "label": "Revisar",
+              "detail": "Teste novamente a mesma rota após cada melhoria e siga adiante quando a montaria parar de evoluir."
+            },
+            {
+              "label": "Colecionar",
+              "detail": "Mantenha chocagens raras ou incomuns separadas da montaria rápida de viagem que você muta."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Dicas e truques de Ride a Dino",
+          "description": "Use rotas de ovos repetíveis, teste montarias antes de trocar e evite hábitos de viagem que atrasam uma sessão de coleção.",
+          "href": "/guide/ride-a-dino-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Rotas",
+              "detail": "Escolha três ou quatro pontos de referência e repita-os em ordem em vez de vagar pelo mapa."
+            },
+            {
+              "label": "Testes",
+              "detail": "Experimente dois ou três dinossauros em uma rota familiar antes de escolher uma montaria principal."
+            },
+            {
+              "label": "Time",
+              "detail": "Revise seu time após cada sessão e mantenha os dinossauros que cumprem uma função de viagem ou coleção."
+            },
+            {
+              "label": "Velocidade",
+              "detail": "Gaste melhorias em velocidade de viagem e acesso a ovos antes de opções cosméticas."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes sobre Ride a Dino",
+      "description": "Respostas rápidas sobre ovos, controles, mutações, códigos e progressão de Ride a Dino.",
+      "items": [
+        {
+          "question": "O que é Ride a Dino?",
+          "answer": "Ride a Dino é um jogo de coleção de dinossauros no Roblox. Os jogadores exploram o mapa, encontram ovos de dinossauro, chocam dinossauros, montam em criaturas mais rápidas e usam mutações para melhorar a velocidade."
+        },
+        {
+          "question": "Como começo em Ride a Dino?",
+          "answer": "Percorra a área ao redor do spawn para encontrar seu primeiro ovo, choque-o e equipe o dinossauro. Depois siga para longe montado para encontrar ovos que estavam longe demais para alcançar a pé."
+        },
+        {
+          "question": "Existem códigos de Ride a Dino que funcionam?",
+          "answer": "Não há códigos ativos de Ride a Dino nem códigos expirados registrados. O jogo não tem menu de resgate no momento, então confira a página do jogo no Roblox e os canais oficiais após uma atualização."
+        },
+        {
+          "question": "Como funcionam as mutações de Ride a Dino?",
+          "answer": "As mutações melhoram o desempenho de um dinossauro, especialmente a velocidade. Teste primeiro uma chocagem em uma rota conhecida e depois direcione as mutações para a montaria que realmente reduz seu tempo de viagem."
+        },
+        {
+          "question": "Como encontro ovos raros em Ride a Dino?",
+          "answer": "Cubra a área inicial, os caminhos externos, as zonas com requisitos de velocidade e as bordas distantes. Uma montaria mais rápida abre rotas mais longas e dá acesso a ovos que você não conseguia alcançar antes."
+        },
+        {
+          "question": "Qual dinossauro devo manter em Ride a Dino?",
+          "answer": "Mantenha uma chocagem que seja rápida de base, útil na sua rota e que valha a pena mutar. Compare velocidade, raridade e margem de mutação, depois promova a montaria que melhora sua próxima sessão."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para montar em Ride a Dino?",
+      "description": "Planeje sua rota de ovos de dinossauro, choque dinossauros raros e melhore sua velocidade com guias de Ride a Dino gratuitos e atualizados.",
+      "primary": "Ler o guia para iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guia de Ride a Dino",
+    "overviewDescription": "Comece com os guias para iniciantes de Ride a Dino sobre chocagem, montaria, doma, obtenção de dinheiro e criação de uma rota forte no início do jogo."
+  },
+  "progression": {
+    "overviewTitle": "Guias de progressão de Ride a Dino",
+    "overviewDescription": "Planeje sua progressão em Ride a Dino da primeira chocagem aos ovos raros, passando por mutações mais fortes e uma rota diária de coleção mais rápida."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de Ride a Dino",
+    "overviewDescription": "Aprenda como doma, treinamento, resistência, melhorias e fusão de dinossauros se encaixam no ciclo principal de chocar e montar."
+  },
+  "items": {
+    "overviewTitle": "Itens e equipamentos de Ride a Dino",
+    "overviewDescription": "Compare equipamentos, ovos, mascotes e itens de Robux de Ride a Dino para que cada melhoria favoreça viagens mais rápidas e melhores chocagens."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Ride a Dino",
+    "overviewDescription": "Confira o status atual dos códigos de Ride a Dino e saiba onde novas recompensas aparecem e como resgatá-las no jogo."
+  },
+  "characters": {
+    "overviewTitle": "Personagens e dinossauros de Ride a Dino",
+    "overviewDescription": "Explore os guias de dinossauros de Ride a Dino com rankings por níveis, variantes cósmicas e arco-íris, spawns raros e prioridades de coleção."
+  },
+  "updates": {
+    "overviewTitle": "Atualizações de Ride a Dino",
+    "overviewDescription": "Acompanhe as atualizações de Ride a Dino, novos dinossauros, mudanças de localização e alterações de gameplay que afetam suas rotas de ovos e seu plano de coleção."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da wiki",
+    "activeCodes": "Códigos ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos passos",
+    "needHelp": "Precisa de ajuda?",
+    "relatedReading": "Leituras relacionadas",
+    "relatedGuides": "Guias relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!",
+    "noActiveCodes": "Nenhum código ativo está disponível no momento. Volte após a próxima atualização."
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "description": "O guia que você procura pode ter sido movido ou ainda não foi adicionado.",
+    "browse": "Ver guias de dinossauros"
+  },
+  "footer": {
+    "aboutTitle": "Ride a Dino Wiki",
+    "about": "Ride a Dino Wiki é um hub de guias independente criado por fãs que cobre localizações de ovos de dinossauro, chocagem, raridade de dinossauros, mutações de velocidade e estratégias de coleção.",
+    "quickLinks": "Links rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Ride a Dino Wiki. Sem afiliação com a Roblox ou com os desenvolvedores do jogo.",
+    "description": "Simulador de montaria de dinossauro no Roblox com ovos de dinossauro, chocagem, mutações de velocidade e progressão de coleção.",
+    "playGame": "Jogar Ride a Dino no Roblox",
+    "officialDiscord": "Página do jogo no Roblox",
+    "officialYoutube": "Vídeo de gameplay",
+    "vvBuilder": "Guia de ovos de dinossauro",
+    "beginnerGuide": "Guia para iniciantes",
+    "characterGuides": "Guias de dinossauros",
+    "mechanicsGuides": "Guias de mecânicas",
+    "progressionGuides": "Guias de progressão",
+    "privacyPolicy": "Política de privacidade",
+    "termsOfService": "Termos de serviço"
+  }
+}

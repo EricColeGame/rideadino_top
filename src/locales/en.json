@@ -176,6 +176,8 @@
     "explore": {
       "title": "Explore Ride a Dino Wiki",
       "description": "Plan your first hatch, find egg routes, rank dinosaurs, and improve speed with focused Ride a Dino guides.",
+      "readFullGuide": "Read Full Guide",
+      "tierLabel": "Tier",
       "modules": [
         {
           "order": 1,
@@ -467,7 +469,13 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "noActiveCodes": "No active codes are available right now. Check back after the next update."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The guide you are looking for may have moved or has not been added yet.",
+    "browse": "Browse Dinosaur Guides"
   },
   "footer": {
     "aboutTitle": "Ride a Dino Wiki",

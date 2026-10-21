@@ -31,6 +31,6 @@ export const siteConfig: SiteConfig = {
   social: {
     youtube: "https://www.youtube.com/watch?v=JF_l5dWEois",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "pt-BR", "fr"],
   defaultLocale: "en",
 };

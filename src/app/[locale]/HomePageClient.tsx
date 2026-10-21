@@ -211,7 +211,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
                           "text-muted-foreground";
                         return (
                           <div key={i} className={`rounded-xl border p-4 ${tierColor}`}>
-                            <span className={`text-sm font-bold ${tierText}`}>{h.label} Tier</span>
+                            <span className={`text-sm font-bold ${tierText}`}>{h.label} {home.explore.tierLabel}</span>
                             <p className="mt-1.5 text-xs leading-5 text-muted-foreground">{h.detail}</p>
                           </div>
                         );
@@ -235,7 +235,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
                     href={localizeHref(mod.href, locale)}
                     className="mt-5 inline-flex items-center text-sm font-semibold text-[hsl(var(--nav-theme))] hover:underline"
                   >
-                    Read Full Guide <ChevronRight className="ml-1 h-4 w-4" />
+                    {home.explore.readFullGuide} <ChevronRight className="ml-1 h-4 w-4" />
                   </Link>
                 </div>
               </div>

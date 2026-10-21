@@ -1,1 +1,499 @@
-{}
+{
+  "site": {
+    "name": "Ride a Dino Wiki",
+    "shortName": "Ride a Dino",
+    "tagline": "Guías de huevos de dinosaurio, mutaciones, eclosión y progresión",
+    "description": "Explora Ride a Dino en Roblox con guías para principiantes, ubicaciones de huevos de dinosaurio, consejos de eclosión, rareza de dinosaurios, mutaciones de velocidad y estrategias de colección.",
+    "legalNotice": "Wiki de fans no oficial. No está afiliada a Roblox ni a los desarrolladores del juego."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "progression": "Progresión",
+    "mechanics": "Mecánicas",
+    "items": "Objetos",
+    "codes": "Códigos",
+    "characters": "Personajes",
+    "updates": "Actualizaciones"
+  },
+  "home": {
+    "meta": {
+      "title": "Ride a Dino Wiki - Códigos, huevos y mutaciones",
+      "description": "Explora Ride a Dino en Roblox con guías para principiantes, ubicaciones de huevos de dinosaurio, consejos de eclosión, rareza de dinosaurios, mutaciones de velocidad y estrategias de colección."
+    },
+    "hero": {
+      "eyebrow": "Simulador de paseo en dinosaurio de Roblox",
+      "title": "Ride a Dino Wiki",
+      "description": "Descubre huevos de dinosaurio ocultos, eclosiona dinosaurios más rápidos, encuentra criaturas raras y usa mutaciones para mejorar la velocidad. Consulta guías para principiantes, consejos de juego y estrategias de colección para Ride a Dino en Roblox.",
+      "stats": [
+        "Más de 2,1 M de visitas",
+        "Colección de huevos de dinosaurio",
+        "Códigos próximamente",
+        "Actualizado recientemente"
+      ],
+      "primaryCta": "Jugar en Roblox",
+      "secondaryCta": "Guía para principiantes",
+      "tertiaryCta": "Códigos activos",
+      "videoLabel": "Vídeo de juego"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu aventura en Ride a Dino",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Sigue la ruta de la primera hora desde el punto de aparición hasta tu primera eclosión, equipa el dinosaurio y empieza a explorar."
+        },
+        {
+          "number": "2",
+          "title": "Mejores rutas de huevos",
+          "description": "Recorre la zona inicial y los caminos exteriores, y usa una montura más rápida para llegar a los huevos más alejados del centro."
+        },
+        {
+          "number": "3",
+          "title": "Mutaciones de velocidad",
+          "description": "Prueba cada eclosión en una ruta conocida e invierte las mutaciones en una base rápida que acorte todos tus trayectos futuros."
+        },
+        {
+          "number": "4",
+          "title": "Elección de dinosaurio",
+          "description": "Compara la velocidad base, la rareza y el margen de mutación para elegir el dinosaurio que encaje con tu próximo objetivo."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias",
+      "quickLinks": [
+        "Ruta para principiantes",
+        "Ubicaciones de huevos",
+        "Lista de niveles de dinosaurios",
+        "Guía de mutaciones"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes de Ride a Dino",
+          "description": "Planifica tu primera hora desde el punto de aparición hasta la eclosión, la montura y la mutación.",
+          "href": "/guide/ride-a-dino-beginner-guide"
+        },
+        {
+          "badge": "Mapa",
+          "title": "Ubicaciones de huevos de dinosaurio",
+          "description": "Sigue rutas por zonas para encontrar huevos iniciales, caminos exteriores, puertas de velocidad y apariciones lejanas.",
+          "href": "/updates/ride-a-dino-dinosaur-locations"
+        },
+        {
+          "badge": "Lista de niveles",
+          "title": "Mejores dinosaurios",
+          "description": "Clasifica tus eclosiones por velocidad base, rareza y margen de mutación.",
+          "href": "/characters/ride-a-dino-best-dinosaurs-tier-list"
+        },
+        {
+          "badge": "Mejora",
+          "title": "Mutaciones y mejoras",
+          "description": "Elige un candidato rápido y prueba cada mutación en una ruta que conozcas.",
+          "href": "/mechanics/ride-a-dino-dinosaur-upgrades"
+        },
+        {
+          "badge": "Consejos",
+          "title": "Trucos y consejos",
+          "description": "Crea rutas de huevos repetibles, prueba tus monturas y evita viajes innecesarios.",
+          "href": "/guide/ride-a-dino-tips-and-tricks"
+        },
+        {
+          "badge": "Códigos",
+          "title": "Códigos de Ride a Dino",
+          "description": "Consulta el estado actual de los códigos y los pasos para canjear uno cuando aparezca.",
+          "href": "/codes/ride-a-dino-codes"
+        },
+        {
+          "badge": "Raro",
+          "title": "Dinosaurios más raros",
+          "description": "Planifica la búsqueda de eclosiones raras y de las zonas que exigen una montura más rápida.",
+          "href": "/progression/ride-a-dino-rarest-dinosaur"
+        },
+        {
+          "badge": "Actualización",
+          "title": "Nuevos dinosaurios",
+          "description": "Sigue las nuevas eclosiones, los cambios de huevos y las prioridades de cada actualización mientras crece el mapa.",
+          "href": "/updates/ride-a-dino-new-dinosaurs"
+        },
+        {
+          "badge": "Jugabilidad",
+          "title": "Cómo jugar",
+          "description": "Aprende el ciclo de explorar, eclosionar, montar, mutar y coleccionar desde la primera partida.",
+          "href": "/guide/ride-a-dino-how-to-play"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Ride a Dino?",
+      "paragraphs": [
+        "Ride a Dino es un juego de colección de dinosaurios de Roblox construido alrededor de un ciclo compacto: explora el mapa, encuentra huevos de dinosaurio, eclosiona un dinosaurio, móntalo para llegar a nuevas zonas y muta una montura rápida para aumentar aún más su velocidad.",
+        "El movimiento impulsa la progresión. Una eclosión más rápida abre rutas más largas y huevos más difíciles de encontrar, mientras que las mutaciones añaden velocidad al dinosaurio que decidas conservar. Nuestras guías cubren la ruta de la primera hora, las pruebas de eclosión, las prioridades de mutación, las ubicaciones de los huevos y los códigos de cada sesión."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Colección de dinosaurios"
+        },
+        {
+          "label": "Visitas",
+          "value": "2,1 M+"
+        },
+        {
+          "label": "Ciclo principal",
+          "value": "Explorar, eclosionar, montar"
+        },
+        {
+          "label": "Tamaño del servidor",
+          "value": "6 jinetes"
+        },
+        {
+          "label": "Progresión",
+          "value": "Mutaciones de velocidad"
+        },
+        {
+          "label": "Estado de actualización",
+          "value": "Actualizado recientemente"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora Ride a Dino Wiki",
+      "description": "Planifica tu primera eclosión, encuentra rutas de huevos, clasifica dinosaurios y mejora tu velocidad con guías específicas de Ride a Dino.",
+      "readFullGuide": "Leer guía completa",
+      "tierLabel": "Nivel",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Ride a Dino",
+          "description": "Aprende el ciclo básico de explorar, eclosionar, montar, mutar y coleccionar, y sigue una ruta de primera hora desde el punto de aparición hasta una montura útil.",
+          "href": "/guide/ride-a-dino-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Recorre la zona de aparición en círculos cada vez más amplios para encontrar tu primer huevo de dinosaurio."
+            },
+            {
+              "label": "2",
+              "detail": "Eclosiona el huevo y equipa el dinosaurio en cuanto aparezca."
+            },
+            {
+              "label": "3",
+              "detail": "Monta la nueva criatura por las rutas exteriores para alcanzar huevos fuera del alcance a pie."
+            },
+            {
+              "label": "4",
+              "detail": "Muta una base rápida para aumentar su velocidad y acortar todas tus rutas futuras."
+            },
+            {
+              "label": "5",
+              "detail": "Colecciona cada nueva eclosión, pruébala en una ruta conocida y mantén activa la montura más rápida."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Códigos de Ride a Dino",
+          "description": "Consulta el estado actual de los códigos de Ride a Dino, aprende cómo funciona el canje y descubre dónde aparecen nuevos códigos tras una actualización.",
+          "href": "/codes/ride-a-dino-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Estado",
+              "detail": "No hay códigos activos de Ride a Dino ni códigos caducados registrados."
+            },
+            {
+              "label": "Menú",
+              "detail": "El juego no tiene un menú de códigos ni una caja de canje dentro del juego en este momento."
+            },
+            {
+              "label": "Canjear",
+              "detail": "Cuando aparezca un menú de códigos, ábrelo, pega el código exactamente y confirma la recompensa."
+            },
+            {
+              "label": "Seguir",
+              "detail": "Revisa la página del juego en Roblox, el Discord oficial y las redes sociales del desarrollador después de cada actualización."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Lista de niveles de dinosaurios de Ride a Dino",
+          "description": "Clasifica las eclosiones por velocidad base, rareza y margen de mutación, y usa los grupos de S a C para decidir qué dinosaurio permanece en tu equipo activo.",
+          "href": "/characters/ride-a-dino-best-dinosaurs-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Rápido de base, lo bastante raro para protegerlo y con margen de mutación; conviértelo en tu montura principal."
+            },
+            {
+              "label": "A",
+              "detail": "Fuerte en dos de los tres ejes; úsalo como referencia mientras sigues buscando una mejor eclosión."
+            },
+            {
+              "label": "B",
+              "detail": "Velocidad y rareza medias; consérvalo como respaldo y evita gastar mucho en mutaciones."
+            },
+            {
+              "label": "C",
+              "detail": "Lento y común; retíralo, libera el espacio y pasa al siguiente huevo."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de dinosaurios de Ride a Dino",
+          "description": "Compara los dinosaurios que eclosionas por movimiento, rareza y valor de mutación, y crea un equipo que cubra los viajes y la colección.",
+          "href": "/guide/ride-a-dino-best-dinosaurs",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Velocidad base",
+              "detail": "Las eclosiones varían en velocidad base; cronometra la misma ruta con dos monturas antes de cambiar."
+            },
+            {
+              "label": "Rareza",
+              "detail": "La rareza es una señal de colección, no una garantía de movimiento más rápido."
+            },
+            {
+              "label": "Mutación",
+              "detail": "La mutación añade velocidad a la eclosión que elijas, así que decide después de probar la base."
+            },
+            {
+              "label": "Prueba de ruta",
+              "detail": "Recorre una ruta conocida con tu montura actual y con la nueva eclosión para detectar una mejora real."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de progresión de Ride a Dino",
+          "description": "Convierte cada sesión en una ruta repetible: eclosiona una montura útil, abre más zonas del mapa y reinvierte las mejoras de velocidad en huevos más raros.",
+          "href": "/progression",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Explora un radio pequeño alrededor del punto de aparición e identifica el primer huevo antes de viajar lejos."
+            },
+            {
+              "label": "2",
+              "detail": "Eclosiona y equipa tu primera montura durante los primeros minutos de la sesión."
+            },
+            {
+              "label": "3",
+              "detail": "Muta una eclosión rápida para ampliar la distancia que puedes cubrir en una sola ruta."
+            },
+            {
+              "label": "4",
+              "detail": "Crea un equipo de dos o tres dinosaurios encadenando la recogida de huevos de un punto de referencia al siguiente."
+            },
+            {
+              "label": "5",
+              "detail": "Vuelve a revisar las apariciones centrales con tu montura más rápida y conserva la ruta que produzca más huevos."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de huevos y eclosión de Ride a Dino",
+          "description": "Descubre dónde aparecen los huevos, cómo eclosionarlos y qué zonas del mapa se abren cuando tu montura gana velocidad.",
+          "href": "/updates/ride-a-dino-dinosaur-locations",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Inicio",
+              "detail": "Camina desde el punto de aparición y recorre la zona inicial para encontrar tus primeros huevos."
+            },
+            {
+              "label": "Exterior",
+              "detail": "Sigue los caminos que se alejan del centro y revisa los bordes y las bifurcaciones."
+            },
+            {
+              "label": "Barrera de velocidad",
+              "detail": "Los desvíos largos y los caminos divididos abren candidatos raros a medida que aumenta la velocidad de la montura."
+            },
+            {
+              "label": "Borde lejano",
+              "detail": "Recorre deliberadamente los bordes lejanos con tu montura más rápida para encontrar huevos difíciles de localizar."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía de mutaciones y mejoras de Ride a Dino",
+          "description": "Elige una eclosión prometedora, pruébala en rutas reales y dirige las mutaciones a la montura que realmente acorta tu tiempo de viaje.",
+          "href": "/mechanics/ride-a-dino-dinosaur-upgrades",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Mutar",
+              "detail": "La mutación mejora el rendimiento de un dinosaurio, sobre todo la velocidad que notas en las rutas largas de huevos."
+            },
+            {
+              "label": "Confirmar",
+              "detail": "Prueba una eclosión antes de gastar mutaciones para que los recursos permanezcan en una montura que piensas conservar."
+            },
+            {
+              "label": "Revisar",
+              "detail": "Vuelve a probar la misma ruta después de cada mejora y cambia cuando la montura deje de mejorar."
+            },
+            {
+              "label": "Coleccionar",
+              "detail": "Mantén las eclosiones raras o inusuales separadas de la montura rápida de viaje que mutas."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Trucos y consejos de Ride a Dino",
+          "description": "Usa rutas de huevos repetibles, prueba las monturas antes de cambiar y evita los hábitos de viaje que ralentizan una sesión de colección.",
+          "href": "/guide/ride-a-dino-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Rutas",
+              "detail": "Elige tres o cuatro puntos de referencia y repítelos en orden en lugar de vagar por el mapa."
+            },
+            {
+              "label": "Pruebas",
+              "detail": "Prueba dos o tres dinosaurios en una ruta conocida antes de decidirte por una montura principal."
+            },
+            {
+              "label": "Equipo",
+              "detail": "Revisa tu equipo después de cada sesión y conserva los dinosaurios que cumplen una función de viaje o colección."
+            },
+            {
+              "label": "Velocidad",
+              "detail": "Gasta las mejoras en velocidad de viaje y acceso a huevos antes que en opciones cosméticas."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre Ride a Dino",
+      "description": "Respuestas rápidas sobre huevos, controles, mutaciones, códigos y progresión de Ride a Dino.",
+      "items": [
+        {
+          "question": "¿Qué es Ride a Dino?",
+          "answer": "Ride a Dino es un juego de colección de dinosaurios de Roblox. Los jugadores exploran el mapa, encuentran huevos de dinosaurio, eclosionan dinosaurios, montan criaturas más rápidas y usan mutaciones para mejorar la velocidad."
+        },
+        {
+          "question": "¿Cómo empiezo en Ride a Dino?",
+          "answer": "Recorre la zona alrededor del punto de aparición para encontrar tu primer huevo, eclosiónalo y equipa el dinosaurio. Luego aléjate montado para encontrar huevos que estaban demasiado lejos para recorrerlos a pie."
+        },
+        {
+          "question": "¿Hay códigos de Ride a Dino que funcionen?",
+          "answer": "No hay códigos activos de Ride a Dino ni códigos caducados registrados. El juego no tiene un menú de canje en este momento, así que revisa la página del juego en Roblox y los canales oficiales después de una actualización."
+        },
+        {
+          "question": "¿Cómo funcionan las mutaciones de Ride a Dino?",
+          "answer": "Las mutaciones mejoran el rendimiento de un dinosaurio, especialmente la velocidad. Prueba primero una eclosión en una ruta conocida y luego dirige las mutaciones a la montura que realmente reduzca tu tiempo de viaje."
+        },
+        {
+          "question": "¿Cómo encuentro huevos raros en Ride a Dino?",
+          "answer": "Cubre la zona inicial, los caminos exteriores, las zonas con requisitos de velocidad y los bordes lejanos. Una montura más rápida abre rutas más largas y te da acceso a huevos que antes no podías alcanzar."
+        },
+        {
+          "question": "¿Qué dinosaurio debería conservar en Ride a Dino?",
+          "answer": "Conserva una eclosión que sea rápida de base, útil en tu ruta y que merezca mutarse. Compara velocidad, rareza y margen de mutación, y promociona la montura que mejore tu próxima sesión."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para montar en Ride a Dino?",
+      "description": "Planifica tu ruta de huevos de dinosaurio, eclosiona dinosaurios raros y mejora tu velocidad con guías de Ride a Dino gratuitas y actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guía de Ride a Dino",
+    "overviewDescription": "Empieza con las guías para principiantes de Ride a Dino sobre eclosión, paseo, domesticación, obtención de dinero y creación de una ruta sólida al inicio del juego."
+  },
+  "progression": {
+    "overviewTitle": "Guías de progresión de Ride a Dino",
+    "overviewDescription": "Planifica tu progresión en Ride a Dino desde la primera eclosión hasta los huevos raros, las mutaciones más fuertes y una ruta diaria de colección más rápida."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Ride a Dino",
+    "overviewDescription": "Aprende cómo la domesticación, el entrenamiento, la resistencia, las mejoras y la fusión de dinosaurios encajan en el ciclo principal de eclosionar y montar."
+  },
+  "items": {
+    "overviewTitle": "Objetos y equipo de Ride a Dino",
+    "overviewDescription": "Compara el equipo, los huevos, las mascotas y los objetos de Robux de Ride a Dino para que cada mejora favorezca viajes más rápidos y mejores eclosiones."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Ride a Dino",
+    "overviewDescription": "Consulta el estado actual de los códigos de Ride a Dino y descubre dónde aparecen las nuevas recompensas y cómo canjearlas en el juego."
+  },
+  "characters": {
+    "overviewTitle": "Personajes y dinosaurios de Ride a Dino",
+    "overviewDescription": "Explora las guías de dinosaurios de Ride a Dino con clasificaciones por niveles, variantes cósmicas y arcoíris, apariciones raras y prioridades de colección."
+  },
+  "updates": {
+    "overviewTitle": "Actualizaciones de Ride a Dino",
+    "overviewDescription": "Sigue las actualizaciones de Ride a Dino, los nuevos dinosaurios, los cambios de ubicación y las novedades de jugabilidad que afectan a tus rutas de huevos y a tu plan de colección."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!",
+    "noActiveCodes": "No hay códigos activos en este momento. Vuelve después de la próxima actualización."
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "description": "La guía que buscas puede haberse movido o todavía no se ha añadido.",
+    "browse": "Ver guías de dinosaurios"
+  },
+  "footer": {
+    "aboutTitle": "Ride a Dino Wiki",
+    "about": "Ride a Dino Wiki es un centro de guías independiente creado por fans que cubre ubicaciones de huevos de dinosaurio, eclosión, rareza de dinosaurios, mutaciones de velocidad y estrategias de colección.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Ride a Dino Wiki. No está afiliada a Roblox ni a los desarrolladores del juego.",
+    "description": "Simulador de paseo en dinosaurio de Roblox con huevos de dinosaurio, eclosión, mutaciones de velocidad y progresión de colección.",
+    "playGame": "Jugar a Ride a Dino en Roblox",
+    "officialDiscord": "Página del juego en Roblox",
+    "officialYoutube": "Vídeo de juego",
+    "vvBuilder": "Guía de huevos de dinosaurio",
+    "beginnerGuide": "Guía para principiantes",
+    "characterGuides": "Guías de dinosaurios",
+    "mechanicsGuides": "Guías de mecánicas",
+    "progressionGuides": "Guías de progresión",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio"
+  }
+}

@@ -3,7 +3,7 @@ import type { Metadata, Viewport } from "next";
 import Script from "next/script";
 import { Inter } from "next/font/google";
 import { hasLocale } from "next-intl";
-import { getMessages, setRequestLocale } from "next-intl/server";
+import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
 import { NextIntlClientProvider } from "next-intl";
 import { notFound } from "next/navigation";
 import { ThemeProvider } from "next-themes";
@@ -23,11 +23,13 @@ export function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
-  const { locale } = await params;
+  const { locale: requestedLocale } = await params;
+  const locale = hasLocale(routing.locales, requestedLocale) ? requestedLocale : routing.defaultLocale;
+  const t = await getTranslations({ locale, namespace: "home" });
   const image = `${siteUrl}/images/hero.webp`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
-  const title = "Ride a Dino Wiki";
-  const description = "Explore Ride a Dino on Roblox with beginner guides, Dino Egg locations, hatching tips, dinosaur rarity, speed mutations, and collection strategies.";
+  const title = t("meta.title");
+  const description = t("meta.description");
   return {
     metadataBase: new URL(siteUrl),
     applicationName: siteConfig.name,
