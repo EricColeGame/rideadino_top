@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "progression": "Progression",
+    "mechanics": "Mechanics",
+    "items": "Items",
+    "codes": "Codes",
+    "characters": "Characters",
+    "updates": "Updates"
   },
   "home": {
     "meta": {
@@ -417,7 +424,34 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Ride a Dino Guide",
+    "overviewDescription": "Start with Ride a Dino beginner guides for hatching, riding, taming, earning cash, and building a strong early-game route."
+  },
+  "progression": {
+    "overviewTitle": "Ride a Dino Progression Guides",
+    "overviewDescription": "Plan your Ride a Dino progression from first hatch to rare eggs, stronger mutations, and a faster daily collection route."
+  },
+  "mechanics": {
+    "overviewTitle": "Ride a Dino Mechanics",
+    "overviewDescription": "Learn how Ride a Dino taming, training, stamina, upgrades, and dinosaur fusion fit into the core hatch-and-ride loop."
+  },
+  "items": {
+    "overviewTitle": "Ride a Dino Items and Gear",
+    "overviewDescription": "Compare Ride a Dino gear, eggs, pets, and Robux items so every upgrade supports faster travel and better hatches."
+  },
+  "codes": {
+    "overviewTitle": "Ride a Dino Codes",
+    "overviewDescription": "Check the current Ride a Dino codes status and learn where new rewards appear and how to redeem them in game."
+  },
+  "characters": {
+    "overviewTitle": "Ride a Dino Characters and Dinosaurs",
+    "overviewDescription": "Explore Ride a Dino dinosaur guides covering tier rankings, cosmic and rainbow variants, rare spawns, and collection priorities."
+  },
+  "updates": {
+    "overviewTitle": "Ride a Dino Updates",
+    "overviewDescription": "Follow Ride a Dino updates, new dinosaurs, location changes, and gameplay shifts that affect your egg routes and collection plan."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -448,9 +482,9 @@
     "officialYoutube": "Gameplay Video",
     "vvBuilder": "Dino Egg Guide",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "characterGuides": "Dinosaur Guides",
+    "mechanicsGuides": "Mechanics Guides",
+    "progressionGuides": "Progression Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
