@@ -7,22 +7,9 @@
     "legalNotice": "Non-official fan wiki. Not affiliated with Roblox or the game's developers."
   },
   "nav": {
-    "races": "Races",
-    "bosses": "Bosses",
-    "guides": "Guides",
-    "codes": "Codes",
-    "tierList": "Tier List",
-    "maps": "Maps",
-    "skills": "Skills",
-    "updates": "Updates",
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme",
-    "guide": "Guides",
-    "seafood": "Seafood & Recipes",
-    "upgrades": "Upgrades",
-    "gamepasses": "Gamepasses",
-    "community": "Community"
+    "toggleTheme": "Toggle theme"
   },
   "home": {
     "meta": {
@@ -348,19 +335,7 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {
-    "meta": {
-      "title": "Bosses — Complete Guide & Walkthrough | Ride a Dino Wiki",
-      "description": "Complete boss guides for Ride a Dino — encounter strategies, drops, and respawn notes."
-    },
-    "overviewTitle": "Bosses Overview",
-    "overviewDescription": "Complete guides for every boss encounter in Ride a Dino, including encounter strategies and reward notes.",
-    "body": "Bosses in Ride a Dino provide progression milestones and valuable rewards. Use the guides below to prepare for each encounter and plan your next upgrade.",
-    "guidesTitle": "Bosses Guides",
-    "readMore": "Read more",
-    "new": "New",
-    "popular": "Popular"
-  },
+  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
